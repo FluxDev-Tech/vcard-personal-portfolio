@@ -11,7 +11,7 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 ##Readme URL
 
 ```
-https://roadmap.sh/projects/basic-html-website
+https://roadmap.sh/projects/portfolio-website
 ```
 
 ## Demo
